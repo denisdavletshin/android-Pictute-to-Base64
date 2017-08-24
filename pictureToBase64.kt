@@ -74,6 +74,7 @@ class PictureToBase64 {
 
     private fun bitmapResize(){
         // TODO
+        // test develop branch
     }
 
     private fun bitmapReduce(){
